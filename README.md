@@ -1,3 +1,26 @@
+# Udemig
+# Eğitimsel Web Sitesi - React.js
+
+Bu GitHub deposu, React.js kullanarak oluşturulmuş bir eğitimsel web sitesini içermektedir. Bu web sitesi, öğrencilere çeşitli konularda eğitim ve öğretim materyalleri sunmayı amaçlamaktadır.
+
+![](gif.gif)
+
+## Özellikler
+
+Bu eğitimsel web sitesi aşağıdaki özelliklere sahiptir:
+
+- **Kurslar:** Farklı konularda zengin kurs içeriği sunar.
+- **Video Dersler:** Öğrencilere görsel dersler sunar.
+- **Sınavlar:** Konuları pekiştirmek için sınavlar ve quizler içerir.
+- **Kullanıcı Profili:** Öğrencilerin ilerlemesini izlemek için kişisel profil sayfaları.
+
+
+
+
+
+
+////////////////////////////////////////////
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,4 +91,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Udemig
+
